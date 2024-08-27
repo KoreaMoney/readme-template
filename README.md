@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="./images/common/logo-sample.jpeg">
+  ![image](https://github.com/user-attachments/assets/bae2f140-574b-4972-953f-8a90c37bfe30)
   <br>
 </p>
 
@@ -15,16 +15,20 @@
 </p>
 
 <p align="center">
-GIF Images
+
 </p>
 
 <br>
 
 ## 기술 스택
 
-| JavaScript | TypeScript |  React   |  Node   |
+| JavaScript | TypeScript |  React   |  Java   |
 | :--------: | :--------: | :------: | :-----: |
-|   ![js]    |   ![ts]    | ![react] | ![node] |
+|   ![js]    |   ![ts]    | ![react] | ![java] |
+
+| Nextjs |
+| :--------: |
+|   ![nextjs]    |  
 
 <br>
 
